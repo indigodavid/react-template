@@ -7,7 +7,7 @@
 
 ## Built With
 
-- Major languages
+- React
 - Frameworks
 - Technologies used
 
